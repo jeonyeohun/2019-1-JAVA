@@ -1,4 +1,5 @@
 import java.util.HashSet;
+// 요소의 순서를 상관하지 않고 중복되지 않게 저장하는 자료구조 >> 해쉬셋
 public class HashSetDemo{
   public static void main (String[] args){
     HashSet<Integer> intSet = new HashSet <Integer>(); //해쉬셋 선언
